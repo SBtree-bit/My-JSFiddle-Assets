@@ -4378,25 +4378,25 @@
   ],
   "images": [
     {
-      "uri": "Plane.035__0_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/SBtree-bit/My-JSFiddle-Assets/main/Plane.035__0_baseColor.png"
     },
     {
-      "uri": "Plane.035__0_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/SBtree-bit/My-JSFiddle-Assets/main/Plane.035__0_metallicRoughness.png"
     },
     {
-      "uri": "headlights_normal.jpeg"
+      "uri": "https://raw.githubusercontent.com/SBtree-bit/My-JSFiddle-Assets/main/headlights_normal.jpeg"
     },
     {
-      "uri": "alloy_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/SBtree-bit/My-JSFiddle-Assets/main/alloy_metallicRoughness.png"
     },
     {
-      "uri": "tire_metallicRoughness.png"
+      "uri": "https://raw.githubusercontent.com/SBtree-bit/My-JSFiddle-Assets/main/tire_metallicRoughness.png"
     },
     {
-      "uri": "license_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/SBtree-bit/My-JSFiddle-Assets/main/license_baseColor.png"
     },
     {
-      "uri": "stickers_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/SBtree-bit/My-JSFiddle-Assets/main/stickers_baseColor.png"
     }
   ],
   "materials": [
