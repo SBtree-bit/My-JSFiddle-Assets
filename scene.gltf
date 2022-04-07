@@ -4378,25 +4378,25 @@
   ],
   "images": [
     {
-      "uri": "textures/Plane.035__0_baseColor.png"
+      "uri": "Plane.035__0_baseColor.png"
     },
     {
-      "uri": "textures/Plane.035__0_metallicRoughness.png"
+      "uri": "Plane.035__0_metallicRoughness.png"
     },
     {
-      "uri": "textures/headlights_normal.jpeg"
+      "uri": "headlights_normal.jpeg"
     },
     {
-      "uri": "textures/alloy_metallicRoughness.png"
+      "uri": "alloy_metallicRoughness.png"
     },
     {
-      "uri": "textures/tire_metallicRoughness.png"
+      "uri": "tire_metallicRoughness.png"
     },
     {
-      "uri": "textures/license_baseColor.png"
+      "uri": "license_baseColor.png"
     },
     {
-      "uri": "textures/stickers_baseColor.png"
+      "uri": "stickers_baseColor.png"
     }
   ],
   "materials": [
